@@ -1,0 +1,1 @@
+In this repository there are examples from the website: https://www.php.net/manual/en/, thanks to which I learn PHP syntax
